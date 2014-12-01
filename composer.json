@@ -1,0 +1,21 @@
+{
+    "name": "Pel/Helper/AskGeoAPI",
+    "description": "A class to consume AskGeo's API.",
+    "license": "MIT",
+    "keywords": ["askgeo"],
+    "authors": [
+        {
+            "name": "Pierre-Emmanuel Lévesque",
+            "email": "pierre.e.levesque@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pel\\Helper\\": "src"
+        }
+    }
+}
