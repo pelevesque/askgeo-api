@@ -1,5 +1,5 @@
 {
-    "name": "Pel/Helper/AskGeoAPI",
+    "name": "Pel/AskGeoAPI",
     "description": "A class to consume AskGeo's API.",
     "license": "MIT",
     "keywords": ["askgeo"],
