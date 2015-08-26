@@ -1,6 +1,6 @@
 # License
 
-AskGeo API uses the MIT open source license.
+AskGeoAPI uses the MIT open source license.
 
 ## MIT License (MIT)
 
