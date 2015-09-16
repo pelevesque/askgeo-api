@@ -46,5 +46,5 @@ $api->getTimeZone($points, $callback, $datetime);
 
 ### Other Specialized Calls
 
-Like the TimeZone call, AskGeoAPI can also call all the available databasese directly.
+Like the TimeZone call, AskGeoAPI can also call all the available databases directly.
 For more information, take a look at the source code.
