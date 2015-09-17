@@ -1,7 +1,7 @@
 <?php
 
 /**
- * A PSR-4 PHP class to consume AskGeo's API.
+ * A PSR-4 PHP class to consume askgeo's API.
  *
  * https://askgeo.com
  *
