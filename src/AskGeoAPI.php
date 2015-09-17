@@ -5,7 +5,6 @@
  *
  * https://askgeo.com
  *
- * @version     1.0
  * @author      Pierre-Emmanuel Lévesque
  * @email       pierre.e.levesque@gmail.com
  * @copyright   Copyright 2014, Pierre-Emmanuel Lévesque
