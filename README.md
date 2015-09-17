@@ -1,15 +1,15 @@
-# AskGeoAPI
+# askgeo-api
 
 ## About
 
-A PHP class to consume AskGeo's API. (https://askgeo.com)
+A PSR-4 PHP class to consume askgeo's API.. (https://askgeo.com)
 
 ## Initialize
 
 ```php
 include('AskGeoAPI.php');
 
-// Use your own account id and api key.
+// ! Use your own account id and api key. !
 $account_id = '1165';
 $api_key = 'g1d11a5117a4143be0f5fge5a9e33df4e9103deb5a12658d22512f2a04ba3nk6';
 $format = 'obj';
@@ -46,5 +46,5 @@ $api->getTimeZone($points, $callback, $datetime);
 
 ### Other Specialized Calls
 
-Like the TimeZone call, AskGeoAPI can also call all the available databases directly.
+Like the TimeZone call, askgeo-api can also call all the available databases directly.
 For more information, take a look at the source code.
