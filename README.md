@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pelevesque/askgeo-api.svg?branch=master)](https://travis-ci.org/pelevesque/askgeo-api)
+
 # askgeo-api
 
 ## About
